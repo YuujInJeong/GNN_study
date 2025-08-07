@@ -1,0 +1,3 @@
+[submodule "GNN_study"]
+	path = GNN_study
+	url = https://github.com/YuujInJeong/GNN_study.git
