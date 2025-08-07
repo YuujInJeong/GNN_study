@@ -1,7 +1,4 @@
-# 📘 Semi-Supervised Classification with Graph Convolutional Networks (GCN) - 수식 중심 심층 분석
-
-이 문서는 GCN 논문을 수학적 정의, 수식 흐름, 증명, 예시를 중심으로 체계적으로 정리한 분석입니다.
-
+# 📘 Semi-Supervised Classification with Graph Convolutional Networks (GCN)
 ---
 
 ## 1. 연구 문제 정의와 동기 (Problem & Motivation)
