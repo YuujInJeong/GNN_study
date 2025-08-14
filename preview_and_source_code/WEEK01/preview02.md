@@ -1,4 +1,3 @@
-## 📚 Part 1: Introduction to Graph Learning
 ### 2장. 그래프 신경망을 위한 그래프 이론 (Graph Theory for Graph Neural Networks)
 
 > **💻 기술 요구사항**
